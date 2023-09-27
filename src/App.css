@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgba(222, 217, 217, 0.37);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 10000 !important;
+}
+.logo h1 {
+  cursor: pointer;
+}
+.logo img {
+  height: 2rem;
+  margin-left: 0.5rem;
+}
